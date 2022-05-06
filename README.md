@@ -1,2 +1,2 @@
 # Fraction-Project
-Hi
+Fraction project that add, multiplies and reduces integers
